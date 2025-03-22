@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <!-- Updated to reflect the correct file path for your project -->
-      <module fileurl="file:///home/nikeshsapkota/github.com/nikeshSapkota01/golangMicroservice/.idea/working-with-microservices-in-go.iml" filepath="/home/nikeshsapkota/github.com/nikeshSapkota01/golangMicroservice/.idea/working-with-microservices-in-go.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/working-with-microservices-in-go.iml" filepath="$PROJECT_DIR$/.idea/working-with-microservices-in-go.iml" />
     </modules>
   </component>
 </project>
